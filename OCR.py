@@ -3,7 +3,7 @@ import pytesseract
 import cv2
 
 # Setting environment variable for pytesseract
-pytesseract.pytesseract.tesseract_cmd = r'C:/Program Files/Tesseract-OCR/tesseract.exe'
+pytesseract.pytesseract.tesseract_cmd = r'path to tesseract.exe'
 
 # Opening an image with cv2
 filename = 'path to an image from which text has to be extacted'
