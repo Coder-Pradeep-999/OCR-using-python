@@ -15,3 +15,6 @@ To install "cv2":
 # IMPORTANT: 
       After installing "pytesseract" module, open the folder where tesseract is installed and add the path to "tesseract.exe" to "pytesseract.pytesseract.tesseract_cmd" as a raw string.
       This helps to not deal with setting up the environment variable for "Tesseract".
+
+# For people having trouble in installing "pytesseract":
+      Link for the windows installer: https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-5.3.3.20231005.exe
