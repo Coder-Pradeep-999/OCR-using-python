@@ -18,3 +18,12 @@ To install "cv2":
 
 # For people having trouble in installing "pytesseract":
       Link for the windows installer: https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-5.3.3.20231005.exe
+
+
+
+# OCR-with-ML
+
+# Prerequisites - scikit-learn:
+
+To install "scikit-learn":
+      pip install scikit-learn
